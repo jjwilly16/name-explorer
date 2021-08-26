@@ -1,0 +1,15 @@
+$primary: darkgreen;
+$dark: #363232;
+$white: #ffffff;
+
+$body-bg: $dark;
+$body-color: #ffffff;
+$link-color: $white;
+
+$font-family-sans-serif: OpenSans, sans-serif;
+$headings-font-family: 'Poppins', sans-serif;
+$headings-font-weight: 900;
+
+$pagination-color: $body-bg;
+
+@import '~bootstrap/scss/variables';
